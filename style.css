@@ -1,0 +1,65 @@
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.centeredtwo {
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#ffffff;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 20px;
+    color: #f4ca97;
+    display: block;
+    padding-right: 40%;
+    padding-top: 2%;
+}
+
+p {
+    font-weight: 20px;
+    padding-top: 2%;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.class {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.classtwo {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blur {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: #636363;
+    color: #636363;
+    font-weight: lighter;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+}
+
+.finalone {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
